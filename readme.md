@@ -9,3 +9,13 @@ Mosquitto
 MariaDB
 Node Red
 Portainer
+
+
+
+
+
+
+
+
+custom tuya component folder in ./hass-config/custom_components/
+https://github.com/midstar/homeassistant_tuya_with_bht-002_support
